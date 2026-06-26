@@ -1,4 +1,4 @@
-# 🛍️ Customer Segmentation Pro
+# 🛍️ Customer Segmentation
 
 An interactive Machine Learning web application built with **Python**, **Streamlit**, and **Scikit-Learn** that segments customers into different groups using the **K-Means Clustering Algorithm**. The application helps businesses analyze customer behavior based on spending habits and annual income to improve marketing strategies.
 
